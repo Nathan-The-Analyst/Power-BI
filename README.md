@@ -1,4 +1,4 @@
-#Through this project, I transformed a raw professional survey collected online into actionable insights.
+Through this project, I transformed a raw professional survey collected online into actionable insights.
 
 The process involved:
 -> Data Cleaning: I meticulously cleaned the survey data to ensure its accuracy and consistency.
