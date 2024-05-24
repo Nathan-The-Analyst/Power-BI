@@ -1,5 +1,6 @@
-Through this project, I transformed a raw professional survey collected online into actionable insights by using POWER BI.
+# Professional Data Survey
 
+Through this project, I transformed a raw professional survey collected online into actionable insights by using POWER BI.
 
 The Process Involved:
 
